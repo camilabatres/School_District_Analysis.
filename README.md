@@ -23,16 +23,28 @@
 <img width="1000" alt="THS_summary_dataframe" src="https://user-images.githubusercontent.com/100107588/160217246-8465545f-e965-48cb-98a1-f8c6c69f777f.png">
 
 * All three percentages went down significantly from the 90's % to the 60's %. This shows how much 9th graders' scores influenced the percentages. Without the 9th grader's scores, the school is at the bottom for both math and reading % compared to the other schools 
-
-* After we only considered the school's 10th to 12th student population to get a better sense of their performance without having the 9th graders' absent scores, the percentages go up. This means that the other grades are doing decently compared to the other schools. 
+ 
 
 ### Math and Reading Scores 
 * The scores' absence affected the average reading and math score for the 9th-grade group. We cannot compare their performance to other 9th graders from other schools because we don't have the data. The school was not able to get into the top 5 due to that absence 
 
 ### Scores by School Spending
+* For the scores by school spending, the numbers didn't change at all once they were rounded up. Thomas High School fell into the $631-645 range. 
+ 
 * Below is a screenshot of the results before the 9th grader's scores were replace 
 <img width="805" alt="Screen Shot 2022-03-25 at 8 59 28 PM" src="https://user-images.githubusercontent.com/100107588/160218336-25c96318-7f22-4375-8e99-8c8cc458fc0c.png">
 
 * Below is a screenshot of the results after the 9th grader's scores were replaced  
 <img width="532" alt="Screen Shot 2022-03-25 at 8 59 57 PM" src="https://user-images.githubusercontent.com/100107588/160218369-631129f9-5623-4543-9b94-457f401410b3.png">
 
+### Scores by School Size 
+* The same situation happened with school size, Thomas High School fell into the Medium reange,  and once the numbers were rounded up there was no difference. They were off by a few decimal places 
+
+### Scores by School Type 
+* The same situation happened with school type, Thomas High School fell into the Charter Type,  and once the numbers were rounded up there was no difference. They were off by a few decimal places 
+
+## Summary 
+* Without removing the 9th grade population from the Thomas High School anlaysis, the percentages go down significantly. 
+* In order to get a better sense of their performance, we only considered the school's 10th to 12th student population. 
+* The math and reading percentage went up when we removed the 9th graders' population.
+* The results demonstrates that the other grades are doing decently compared to the other schools. 
